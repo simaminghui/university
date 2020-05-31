@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-manager-interface" />
+        <module name="dormitory-manager-service" />
+        <module name="user-manager-service" />
+        <module name="dormitory-manager-web" />
+        <module name="admin-manager-service" />
+        <module name="login-manager-service" />
+        <module name="dormitory-login-web" />
+        <module name="dormitory-manager-pojo" />
+        <module name="dormitory-manager-interface" />
+        <module name="admin-manager-web" />
+        <module name="dormitory-manager-dao" />
+        <module name="user-manager-interface" />
+        <module name="admin-dormitory-interface" />
+        <module name="user-manager-web" />
+        <module name="login-manager-interfaces" />
+        <module name="common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-dormitory" target="1.5" />
+      <module name="admin-dormitory-interface" target="1.5" />
+      <module name="login-manager-interface" target="1.7" />
+      <module name="loginmanagerinterface" target="1.7" />
+      <module name="use-rmanager-services" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
